@@ -2,8 +2,8 @@
 
 # dependencies
 /node_modules
-/utils/index.js
-.drizzle.config.ts
+
+
 /.pnp
 .pnp.js
 .yarn/install-state.gz
